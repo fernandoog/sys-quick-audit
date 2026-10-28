@@ -1,0 +1,4 @@
+sys-audit-*.txt
+*.log
+*~
+.DS_Store
